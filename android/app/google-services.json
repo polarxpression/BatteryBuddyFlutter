@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577036011593",
+    "project_id": "batterybuddy-3fe86",
+    "storage_bucket": "batterybuddy-3fe86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577036011593:android:3ae6a5e0ed6219e73e1798",
+        "android_client_info": {
+          "package_name": "com.example.battery_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577036011593-v3lai2u5ikbvv4h41qocm01e1ccg3a1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2fXq8oSjwl5KjrX2hj4IZ-NYxWYHG2U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577036011593-v3lai2u5ikbvv4h41qocm01e1ccg3a1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
