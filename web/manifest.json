@@ -1,6 +1,6 @@
 {
-    "name": "battery_buddy",
-    "short_name": "battery_buddy",
+    "name": "BMS",
+    "short_name": "BMS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -64,6 +64,6 @@ class DefaultFirebaseOptions {
     projectId: 'batterybuddy-3fe86',
     storageBucket: 'batterybuddy-3fe86.firebasestorage.app',
     iosClientId: '577036011593-bsnir6ja6t7k9h7bcif0octc1d7d2g4t.apps.googleusercontent.com',
-    iosBundleId: 'com.example.batteryBuddy',
+    iosBundleId: 'com.example.bms',
   );
 }

@@ -1,5 +1,5 @@
-name: battery_buddy
-description: A mobile inventory management app for batteries.
+name: bms
+description: BMS - a mobile inventory management app for batteries.
 publish_to: 'none'
 version: 1.0.0+1
 

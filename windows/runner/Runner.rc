@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "battery_buddy" "\0"
+            VALUE "FileDescription", "BMS" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "battery_buddy" "\0"
+            VALUE "InternalName", "BMS" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "battery_buddy.exe" "\0"
-            VALUE "ProductName", "battery_buddy" "\0"
+            VALUE "OriginalFilename", "BMS.exe" "\0"
+            VALUE "ProductName", "BMS" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:577036011593:android:3ae6a5e0ed6219e73e1798",
         "android_client_info": {
-          "package_name": "com.example.battery_buddy"
+          "package_name": "com.example.bms"
         }
       },
       "oauth_client": [

@@ -1,4 +1,4 @@
-package com.example.battery_buddy
+package com.example.bms
 
 import io.flutter.embedding.android.FlutterActivity
 

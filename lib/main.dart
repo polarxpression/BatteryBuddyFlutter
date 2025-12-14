@@ -192,18 +192,18 @@ void main() async {
       providers: [
         ChangeNotifierProvider(create: (_) => InventoryProvider()),
       ],
-      child: const BatteryBuddyApp(),
+      child: const BMSApp(),
     ),
   );
 }
 
-class BatteryBuddyApp extends StatelessWidget {
-  const BatteryBuddyApp({super.key});
+class BMSApp extends StatelessWidget {
+  const BMSApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Battery Buddy',
+      title: 'BMS',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
@@ -243,7 +243,7 @@ class DashboardScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Battery Buddy'),
+        title: const Text('BMS'),
         actions: [
           IconButton(
             // Use FaIcon with appropriate Font Awesome icons

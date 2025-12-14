@@ -1,4 +1,4 @@
-# battery_buddy
+# BMS
 
 A new Flutter project.
 
