@@ -4,6 +4,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:provider/provider.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart'; // Import Font Awesome
+import 'firebase_options.dart';
 
 // -----------------------------------------------------------------------------
 // 1. MODELS
@@ -183,7 +184,9 @@ class InventoryProvider extends ChangeNotifier {
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(); // Ensure you have configured your firebase project
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform, 
+  ); // Ensure you have configured your firebase project
   runApp(
     MultiProvider(
       providers: [
